@@ -18,6 +18,6 @@ assignees: ''
 
 ## その他の情報 (Other informations):
 
-##期待する動作
+## 期待する動作
 
-##Issueの完了条件
+## Issueの完了条件
